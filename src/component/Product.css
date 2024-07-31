@@ -1,0 +1,15 @@
+.row{
+    display: flex;
+    width: 400px;
+    gap: 20px;
+    height: 300px;
+    flex-wrap: wrap;
+}
+img{
+    object-fit: contain;
+    height: 50%;
+    width: 100%;
+}
+.card{
+    border: 1px solid black;
+}
